@@ -1,9 +1,9 @@
 Projet - Une plateforme de services dynamiques BRi - R5.08 - Qualité de développement
 
 Membre de l'équipe :
--Phuong NGUYEN (304)
--Alexis SAYSANA (305)
--Shihong WANG (301)
+- Phuong NGUYEN (304)
+- Alexis SAYSANA (305)
+- Shihong WANG (301)
 
 Objectif :
 Le projet BRi vise à concevoir une plateforme de services dynamiques.
