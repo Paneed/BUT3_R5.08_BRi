@@ -12,10 +12,11 @@ Le projet introduit les concepts de modularité, communication client/serveur et
 
 Fonctionnalités principales :
 
--Serveur principal : BRiLaunch 
--Deux clients : -ClientProgrammeur --> publication / mise à jour / suppression de services
-                -ClientAmateur --> utilisation de services disponibles
--Chargement dynamique de classe via sockets 
--Communication entre programmeurs et amateur sur des ports distincts
+- Serveur principal : BRiLaunch
+- Deux clients :
+  - ClientProgrammeur → publication / mise à jour / suppression de services
+  - ClientAmateur → utilisation de services disponibles
+- Chargement dynamique de classes via sockets
+- Communication entre programmeurs et amateurs sur des ports distincts
 - Gestion multi-clients avec threads
 - Architecture modulaire et extensible
