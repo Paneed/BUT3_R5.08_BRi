@@ -13,7 +13,7 @@ public class DynamicServiceLoader {
      * Charge dynamiquement une classe à partir d'une URL donnée (FTP ou dossier local).
      *
      * @param fqcn   Nom complet de la classe à charger (Fully Qualified Class Name)
-     *               ex: "service_utilisateurs.phuong.ServiceInversion"
+     *               ex: "phuong.ServiceInversion"
      * @param ftpUrl URL du dossier où se trouvent les .class
      *               ex: "ftp://localhost/classes/" ou "file:///D:/BUT3/BRI/classes/"
      * @return La classe chargée dynamiquement
