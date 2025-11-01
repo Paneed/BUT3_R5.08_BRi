@@ -7,7 +7,7 @@ Membre de l'équipe :
 
 Objectif :
 Le projet BRi vise à concevoir une plateforme de services dynamiques.
-L'objectif est de permettre à des programmeurs de publier, mettre à jour ou retirer des services à distance et à des amateurs (utilisateurs non programmeurs) d'accéder à des services dynamiquement, sans redémarrage du serveur.
+L'objectif est de permettre à des programmeurs de publier, mettre à jour ou retirer des services à distance et à des amateurs (utilisateurs non programmeurs) d'y accéder dynamiquement, sans redémarrer le serveur.
 Le projet introduit les concepts de modularité, communication client/serveur et gestion concurrente de services dynamiques.
 
 Fonctionnalités principales :
