@@ -1,7 +1,6 @@
 package bri.services;
 
 import bri.programmeur.ProgrammeurRegister;
-import bri.appli.ServiceRegister;
 import bri.appli.DynamicServiceLoader;
 
 import java.io.*;
@@ -10,7 +9,7 @@ import java.net.Socket;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import static bri.appli.ServiceRegister.serviceNames;
+import static bri.services.ServiceRegister.serviceNames;
 
 /**
  * ServiceProgrammeur :
@@ -19,8 +18,6 @@ import static bri.appli.ServiceRegister.serviceNames;
  *  - Supprimer un service
  *  - Changer son adresse FTP
  *  - Lister les services déclarés
- *
- * Conforme à la norme BRi (TP4 / projet 2025-26).
  */
 public class ServiceProgrammeur implements BRIService {
 

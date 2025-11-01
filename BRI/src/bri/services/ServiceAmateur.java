@@ -1,7 +1,7 @@
 package bri.services;
 
 import bri.appli.DynamicServiceLoader;
-import bri.appli.ServiceRegister;
+import bri.services.ServiceRegister;
 
 import java.io.*;
 import java.net.Socket;
@@ -14,8 +14,6 @@ import java.util.stream.Collectors;
  *  - Lister les services disponibles
  *  - Exécuter un service enregistré dynamiquement
  *  - Quitter la session
- *
- * Conforme au cahier des charges BRi.
  */
 public class ServiceAmateur implements BRIService {
 

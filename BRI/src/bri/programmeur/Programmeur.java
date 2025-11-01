@@ -23,10 +23,6 @@ public class Programmeur {
         return password;
     }
 
-    public void addServiceClass(Class<?> serviceClass) {
-        servicesClasses.add(serviceClass);
-    }
-
     @Override
     public String toString() {
         synchronized (servicesClasses) {
