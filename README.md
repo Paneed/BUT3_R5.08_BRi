@@ -11,6 +11,7 @@ L'objectif est de permettre à des programmeurs de publier, mettre à jour ou re
 Le projet introduit les concepts de modularité, communication client/serveur et gestion concurrente de services dynamiques.
 
 Fonctionnalités principales :
+
 -Serveur principal : BRiLaunch 
 -Deux clients : -ClientProgrammeur --> publication / mise à jour / suppression de services
                 -ClientAmateur --> utilisation de services disponibles
